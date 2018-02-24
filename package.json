@@ -1,0 +1,13 @@
+{
+  "name": "allvisual",
+  "version": "0.0.1",
+  "description": "Visualization for all kind of things.",
+  "main": "index.js",
+  "repository": "git@github.com:MitzaCoder/allvisual.git",
+  "author": "Saru Mihai <mihai.saru@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "howler": "^2.0.9",
+    "p5": "^0.6.0"
+  }
+}

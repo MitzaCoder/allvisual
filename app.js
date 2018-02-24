@@ -190,11 +190,6 @@ function draw() {
     }
     ellipse(100 + 80 * i, 100, 50, 50);  
   });
-  // if (currentRPM <= 1000) {
-  //   currentRPM += 15
-  // } else {
-  //   currentRPM = 1000;
-  // }
 }
 
 const rpmIndicator = document.getElementById('rpmShow');
